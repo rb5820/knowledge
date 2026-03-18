@@ -42,7 +42,6 @@
                         bg_color="bg-danger"
                         invisible="active"
                     />
-                    <field name="type" invisible="1" />
                     <field
                         name="image"
                         widget="image"
